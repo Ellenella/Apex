@@ -62,7 +62,6 @@ python-dateutil
 python-dotenv
 python-multipart
 pytz
-pywin32
 PyYAML
 referencing
 regex
