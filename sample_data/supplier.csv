@@ -1,0 +1,11 @@
+supplier_id,supplier_name,category,rating,lead_time_days,min_order_quantity,price_per_unit,location,payment_terms,contract_end_date,risk_level
+SUP001,Global Electronics Inc,Electronics,4.2,15,100,25.50,USA,Net 30,2024-12-31,Low
+SUP002,Tech Components Ltd,Electronics,4.5,10,50,28.75,Germany,Net 45,2024-11-15,Low
+SUP003,Precision Mechanics,Industrial,3.8,25,200,15.20,China,Net 60,2024-10-20,Medium
+SUP004,Automotive Parts Co,Automotive,4.1,20,150,42.30,Japan,Net 30,2024-09-30,Low
+SUP005,Chemical Solutions,Chemicals,3.9,30,500,8.75,India,Net 90,2024-08-15,High
+SUP006,Logistics Experts,Logistics,4.3,5,1,120.00,USA,Net 15,2024-12-31,Low
+SUP007,General Supplies,General,3.7,18,75,12.40,Vietnam,Net 30,2024-07-31,Medium
+SUP008,Microchip Masters,Electronics,4.6,12,25,65.80,Taiwan,Net 30,2024-11-30,Low
+SUP009,Industrial Gear Co,Industrial,4.0,22,100,35.90,South Korea,Net 45,2024-10-15,Medium
+SUP010,Quality Components,Automotive,4.4,16,80,48.20,Germany,Net 30,2024-12-15,Low
