@@ -1,0 +1,10 @@
+supplier_id,supplier_name,category,rating,lead_time_days,unit_cost,recommended_quantity,total_cost,supplier_score,risk_score,on_time_delivery_rate,quality_score,location,payment_terms,export_date
+SUP001,Global Electronics Inc,Electronics,,15,,,3060.0,,0.34,,,USA,,2025-09-13 16:53:31
+SUP002,Tech Components Ltd,Electronics,,10,,,3450.0,,0.34,,,Germany,,2025-09-13 16:53:31
+SUP009,Industrial Gear Co,Industrial,,22,,,4308.0,,0.34,,,South Korea,,2025-09-13 16:53:31
+SUP008,Microchip Masters,Electronics,,12,,,7896.0,,0.34,,,Taiwan,,2025-09-13 16:53:31
+SUP010,Quality Components,Automotive,,16,,,5784.0,,0.34,,,Germany,,2025-09-13 16:53:31
+SUP007,General Supplies,General,,18,,,1488.0,,0.38,,,Vietnam,,2025-09-13 16:53:31
+SUP005,Chemical Solutions,Chemicals,,30,,,1050.0,,0.38,,,India,,2025-09-13 16:53:31
+SUP004,Automotive Parts Co,Automotive,,20,,,5076.0,,0.34,,,Japan,,2025-09-13 16:53:31
+SUP003,Precision Mechanics,Industrial,,25,,,1824.0,,0.38,,,China,,2025-09-13 16:53:31

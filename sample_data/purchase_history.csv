@@ -1,0 +1,17 @@
+purchase_id,supplier_id,product_name,quantity,unit_cost,total_cost,purchase_date,delivery_date,status,product_category
+PUR001,SUP001,Microcontroller Board,500,25.50,12750.00,2024-01-15,2024-01-30,Delivered,Electronics
+PUR002,SUP002,LED Displays,300,28.75,8625.00,2024-01-20,2024-02-10,Delivered,Electronics
+PUR003,SUP003,Sensor Modules,400,22.00,8800.00,2024-02-01,2024-02-13,Delivered,Electronics
+PUR004,SUP004,Steel Beams,1000,15.25,15250.00,2024-02-10,2024-03-07,Delivered,Industrial
+PUR005,SUP005,Metal Sheets,800,18.50,14800.00,2024-02-15,2024-03-05,Delivered,Industrial
+PUR006,SUP006,Brake Pads,600,32.00,19200.00,2024-03-01,2024-04-01,Delivered,Automotive
+PUR007,SUP007,Chemical Solvents,200,45.75,9150.00,2024-03-10,2024-03-20,Delivered,Chemicals
+PUR008,SUP008,Shipping Containers,50,8.25,412.50,2024-03-15,2024-04-20,Delivered,Logistics
+PUR009,SUP009,Circuit Boards,350,30.25,10587.50,2024-04-01,2024-04-15,Delivered,Electronics
+PUR010,SUP010,General Supplies,400,20.00,8000.00,2024-04-10,2024-05-02,Delivered,General
+PUR011,SUP001,Microcontroller Board,300,25.50,7650.00,2024-05-01,2024-05-16,Delivered,Electronics
+PUR012,SUP003,Sensor Modules,250,22.00,5500.00,2024-05-15,2024-05-27,Delivered,Electronics
+PUR013,SUP004,Steel Beams,800,15.25,12200.00,2024-06-01,2024-06-26,Delivered,Industrial
+PUR014,SUP007,Chemical Solvents,150,45.75,6862.50,2024-06-10,2024-06-20,Delivered,Chemicals
+PUR015,SUP009,Circuit Boards,200,30.25,6050.00,2024-07-01,2024-07-15,Delivered,Electronics
+
